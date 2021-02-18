@@ -1,0 +1,11 @@
+body {
+  font-family: sans-serif;
+}
+.body-class {
+  background-color: aliceblue;
+}
+.hover-class {
+}
+.hover-class:hover {
+  stroke: black;
+}
